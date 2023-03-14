@@ -1,0 +1,6 @@
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.exe.config
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.exe
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\bin\Debug\Pertemuan 1.pdb
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.csprojResolveAssemblyReference.cache
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.exe
+D:\4901\Semester 2\Pertemuan 1\Pertemuan 1\obj\Debug\Pertemuan 1.pdb
